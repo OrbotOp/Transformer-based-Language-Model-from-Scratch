@@ -14,13 +14,6 @@ Transformers have led to significant advancements in NLP. This project breaks do
 
 ## Getting Started
 
-### Prerequisites
-
-Before you begin, ensure you have installed:
-- Python 3.8+
-- PyTorch 1.8+
-- NumPy
-
 ### Installation
 
 To set up the project environment, clone this repository and install the necessary dependencies:
@@ -29,6 +22,23 @@ To set up the project environment, clone this repository and install the necessa
 git clone https://github.com/OrbotOp/Transformer-based-Language-Model-from-Scratch.git
 cd Transformer-based-Language-Model-from-Scratch
 ```
+
+### Prerequisites
+
+Before you begin, ensure you have installed:
+- Python 3.8+
+- PyTorch 1.8+
+- NumPy
+
+### Installing Dependencies
+
+Navigate to the project directory and install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+
 
 ## Usage
 
