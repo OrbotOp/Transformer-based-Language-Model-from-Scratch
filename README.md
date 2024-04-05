@@ -55,3 +55,11 @@ python train_save_model.py
    - **transformer_blocks.py** - Implements the core components of the Transformer model, such as the self-attention mechanism.
    - **language_model.py** - Defines the overall Transformer-based language model, integrating the components.
    - **train_save_model.py** - Handles model training and text generation, utilizing the WarrenBuffet.txt dataset included in the repository.
+
+
+## Results
+
+![Image 1](Images/img_1.png)
+![Image 2](Images/img_2.png)
+![Image 3](Images/img_3.png)
+
